@@ -22,6 +22,7 @@
 
 <script>
 import NavMenu from '../components/NavMenu'
+
 import FooterMenu from '../components/FooterMenu'
 import Login from '../components/Login'
 import Register from '../components/Register'

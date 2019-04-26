@@ -4,6 +4,49 @@
       <Col span="18">
         <Card class="thepaper-card">
           <h3 slot="title">Research Articles</h3>
+           <p class="thepaper-year">2019 YEAR</p>
+          <p>
+             Z.-Y. Wang, J.-H. Li, Q. Zhou, X.-Y. Gao, L.-F. Fan, Y.-Q. Wang, L. Xue, Z.-Y. Wang, L. Huang, Multi-Channel System for Simultaneous In Situ Monitoring of Ion Flux and Membrane Potential in Plant Electrophysiology, Ieee Access 7 (2019) 4688-4697
+            </p>
+            <p>
+
+              Z.-Y. Wang, X.-H. Qin, J.-H. Li, L.-F. Fan, Q. Zhou, Y.-Q. Wang, X. Zhao, C.-J. Xie, Z.-Y. Wang, L. Huang, Highly reproducible periodic electrical potential changes associated with salt tolerance in wheat plants, Environmental and Experimental Botany 160 (2019) 120-130
+            </p>
+
+            <p>
+
+            Y.-Q. Wang, P.-F. Zhao, L.-F. Fan, Q. Zhou, Z.-Y. Wang, C. Song, Z.-Q. Chai, Y. Yue, L. Huang, Z.-Y. Wang, Determination of water content and characteristic analysis in substrate root zone by electrical impedance spectroscopy, Computers and Electronics in Agriculture 156 (2019) 243-253.
+            </p>
+
+          </p>
+          <p class="thepaper-year">2018 YEAR</p>
+          <p>
+          Z.-Y. Wang, L. Fan, Y. Wang, J. Li, Q. Zhou, L. Huang, Z. Wang, Selection of recording pattern of plant surface electrical signal based on analysis of electrical characteristics, Transactions of the Chinese Society of Agricultural Engineering 34(5) (2018) 137-143.
+          </p>
+
+          <p>
+           S. Chao, G. Xinyu, W. Yongqian, L. Jinhai, Q. Xiaohuang, Z. Qiao, W. Zhongyi, H. Lan, Feature Selection and Recognition Methods for Discovering Physiological and Bioinformatics RESTful Services, Information 9(9) (2018) 227 (11 pp.)-227 (11 pp.).
+          </p>
+         
+          <p>
+          C. Song, X.-H. Qin, Q. Zhou, Z.-Y. Wang, W.-H. Liu, J. Li, L. Huang, Y. Chen, G. Tang, D.-J. Zhao, Z.-Y. Wang, PlantES: A Plant Electrophysiological Multi-Source Data Online Analysis and Sharing Platform, Applied Sciences-Basel 8(11) (2018).
+          </p>
+
+
+
+          </p>
+
+          <p class="thepaper-year">2017 YEAR</p>
+          <p>
+Y. Chen, D.-J. Zhao, C. Song, W.-H. Liu, Z.-Y. Wang, Z.-Y. Wang, G. Tang, L.J.a.p.a. Huang, Detecting causality in Plant electrical signal by a hybrid causal analysis approach,  (2017).
+          </p>
+          <p>
+Y. Chen, Z.y. Wang, G. Yuan, L.J.W.I.R.D.M. Huang, K. Discovery, An overview of online based platforms for sharing and analyzing electrophysiology data from big data perspective, 7(4) (2017) e1206.
+          </p>
+
+
+
+
           <p class="thepaper-year">2016 YEAR</p>
           <p>
             Chen Yang, Shi Yuling, Wang Zhongyi, Huang Lan*. Connectivity of wireless 
@@ -12,7 +55,7 @@
           </p>
           <p class="thepaper-year">2015 YEAR</p>
           <p>
-            Dong-Jie Zhao,, Yang Chen, Zi-Yang Wang, Lin Xue, Tong-Lin Mao, Yi-Min Liu,
+            Dong-Jie Zhao, Yang Chen, Zi-Yang Wang, Lin Xue, Tong-Lin Mao, Yi-Min Liu,
             Zhong-Yi Wang* & Lan Huang*. High-resolution non-contact measurement of the 
             electrical activity of plants in situ using optical recording. Scientific 
             Reports,2015, 5:13425 (1-14)(SCI) [pdf]
@@ -23,6 +66,7 @@
             content of corn ear by bioelectrical impedance spectroscopy. International Journal 
             of Agricultural and Biological Engineering,2015,8(6): 37-45(SCI) [pdf]
           </p>
+          
           <p class="thepaper-year">2014 YEAR</p>
           <p>
             Dong-Jie Zhao, Zhong-Yi Wang, Lan Huang*, Yong-Peng Jia,& John Q. Leng. 
@@ -50,12 +94,7 @@
             Lan Huang*. A Prototype Portable System for Bioelectrical Impedance Spectroscopy. 
             Sensor letters.2011,9(3):1151-1156(SCI) [pdf]
           </p>
-          <p>
-            Zhao Pengfei,Zhang Hanlin,Zhao Dongjie,	Wang Zhijie,Fan Lifeng,	Huang Lan, 
-            Ma Qin,Wang Zhongyi*. Rapid on-line non-destructive detection of the moisture 
-            content of corn ear by bioelectrical impedance spectroscopy. International Journal 
-            of Agricultural and Biological Engineering,2015,8(6): 37-45(SCI) [pdf]
-          </p>
+
           <p class="thepaper-year">2010 YEAR</p>
           <p>
             Lan Huang, Zhong-Yi Wang*, Long-Lian Zhao, Cheng Wang, Zhi-Long Xu , 

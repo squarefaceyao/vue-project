@@ -1,46 +1,17 @@
 <template>
   <div v-once class="phd-div">
+
     <Row type="flex" justify="center">
+
+
+
+
       <Col span="18" class="phd-col">
-      <Row type="flex" justify="center" :gutter="16">
-        <Col span="4">
-        <Card>
-          <p slot="title">Dong-Jie Zhao</p>
-          <img src="../assets/Phd/zhaodongjie.png">
-        </Card>
-        </Col>
-      </Row>
-      <Row type="flex" justify="center" :gutter="16">
-        <Col span="4">
-        <Card>
-          <p slot="title">Lin Xue</p>
-          <img src="../assets/Phd/xuelin.png">
-        </Card>
-        </Col>
-      </Row>
-      <Row type="flex" justify="center" :gutter="16">
-        <Col span="4">
-        <Card>
-          <p slot="title">Jun Li</p>
-          <img src="../assets/Phd/lijun.png">
-        </Card>
-        </Col>
-        <Col span="4">
-        <Card>
-          <p slot="title">Yang Chen</p>
-          <img src="../assets/Phd/chenyang.png">
-        </Card>
-        </Col>
-      </Row>
-      <Row type="flex" justify="center" :gutter="16">
-        <Col span="4">
-        <Card>
-          <p slot="title">Jian-Xu Wang</p>
-          <img src="../assets/Phd/wangjianxu.png">
-        </Card>
-        </Col>
-      </Row>
-      <Row type="flex" justify="center" :gutter="16">
+
+
+      <hr>
+      <h2>STUDENT</h2>
+      <Row type="flex" justify="center" :gutter="0">
         <Col span="4">
         <Card>
           <p slot="title">Li-Feng Fan</p>
@@ -61,11 +32,79 @@
         </Col>
         <Col span="4">
         <Card>
-          <p slot="title">Peng-Fei Wang</p>
+          <p slot="title">Peng-Fei Zhao</p>
           <img src="../assets/Phd/zhaopengfei.png">
         </Card>
         </Col>
       </Row>
+
+            <Row type="flex" justify="center" :gutter="16">
+        <Col span="4">
+        <Card>
+          <p slot="title">Jin-Hai Li</p>
+          <img src="../assets/Phd/lijinhai.png">
+        </Card>
+        </Col>
+        <Col span="4">
+        <Card>
+          <p slot="title">Qiao Zhou</p>
+          <img src="../assets/Phd/zhouqiao.png">
+        </Card>
+        </Col>
+        <Col span="4">
+        <Card>
+          <p slot="title">Qiang Xu</p>
+          <img src="../assets/Phd/xuqiang.jpg">
+        </Card>
+        </Col>
+        <Col span="4">
+        <Card>
+          <p slot="title">Jie-Peng Yao</p>
+          <img src="../assets/Phd/yaojiepeng.png">
+        </Card>
+        </Col>
+      </Row>
+      
+
+
+      <h2>GRADUATE</h2>
+      <hr>
+
+
+      <Row type="flex" justify="center" :gutter="16">
+        
+        <Col span="4">
+        <Card>
+          <p slot="title">Dong-Jie Zhao</p>
+          <img src="../assets/Phd/zhaodongjie.png">
+        </Card>
+        </Col>
+        <Col span="4">
+        <Card>
+          <p slot="title">Lin Xue</p>
+          <img src="../assets/Phd/xuelin.png">
+        </Card>
+        </Col>
+        <Col span="4">
+        <Card>
+          <p slot="title">Jun Li</p>
+          <img src="../assets/Phd/lijun.png">
+        </Card>
+        </Col>
+        <Col span="4">
+        <Card>
+          <p slot="title">Yang Chen</p>
+          <img src="../assets/Phd/chenyang.png">
+        </Card>
+        </Col>
+        <Col span="4">
+        <Card>
+          <p slot="title">Jian-Xu Wang</p>
+          <img src="../assets/Phd/wangjianxu.png">
+        </Card>
+        </Col>
+      </Row>
+
       </Col>
     </Row>
   </div>
