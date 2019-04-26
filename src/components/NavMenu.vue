@@ -9,16 +9,17 @@
       <MenuItem name="dataset">Dataset</MenuItem>
       <MenuItem name="project">Project</MenuItem>
       <MenuItem name="paper">Paper</MenuItem>
+      
       <Submenu name="about">
         <template slot="title">
           People
         </template>
         <MenuItem name="teacher">Teacher</MenuItem>
-        <MenuGroup title="Student">
-          <MenuItem name="phd">Ph.D</MenuItem>
-          <MenuItem name="master">Master</MenuItem>
+        <MenuItem name="phd">Ph.D</MenuItem>
+         <MenuItem name="master">Master</MenuItem>
         </MenuGroup>
       </Submenu>
+      <MenuItem name="yao">Introduction</MenuItem>
       </Col>
       <Col span="4" offset="5">
       <Input v-model="seachKeyWord"  @keyup.enter="search" placeholder="search dataset ... ">

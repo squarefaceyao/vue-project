@@ -1,5 +1,5 @@
 <template>
-  <Row type="flex" justify="space-around" align="top" class-name="layout-footer">
+  <Row type="flex" justify="space-around" align="top" class-name="layout-footer" >
     <Col span="6">
       <h4>About us</h4>
       <ButtonGroup vertical size="small">
@@ -14,7 +14,7 @@
     <h4>Suggest</h4>
     <ul>
       <li>Feedback</li>
-      <li>Bug</li>
+      <li>squarefaceyao@gmail.com</li>
     </ul>
     </Col>
     <Col span="6">

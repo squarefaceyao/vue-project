@@ -12,6 +12,7 @@ const ThePhd = () => import('../view/ThePhd.vue')
 const ThePaper = () => import('../view/ThePaper.vue')
 const TheProject = () => import('../view/TheProject.vue')
 const TheMaster = () => import('../view/TheMaster.vue')
+const TheYao = () => import('../view/TheYao.vue')
 const Page404 = () => import('../view/Page404.vue')
 const DatasetBrowse = () => import('../view/DatasetBrowse.vue')
 
@@ -44,6 +45,11 @@ const routes = [
         path: 'paper',
         name: 'paper',
         component: ThePaper
+      },
+      {
+        path: 'yao',
+        name: 'yao',
+        component: TheYao
       },
       {
         path: 'phd',
