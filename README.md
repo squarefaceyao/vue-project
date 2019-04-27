@@ -62,3 +62,5 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+陈洋、宋超、刘伟赫开发了plantes，姚杰鹏、周桥、秦小煌作了部署工作。
