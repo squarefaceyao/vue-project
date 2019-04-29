@@ -50,7 +50,7 @@
             </Col>
             <Col span="18">
               <p>Professor</p>
-              <p>Department of Electronic Engineering</p>
+              <p>Department of computer science and technology</p>
               <p>College of Information and Electrical Engineering</p>
               <p>China Agricultural University</p>
               <p>Tel:+86-010-62737778  Fax: +86-010-62737778</p>
